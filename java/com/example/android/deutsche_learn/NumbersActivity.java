@@ -38,6 +38,16 @@ public class NumbersActivity extends AppCompatActivity {
         words.add(new Word("eighteen", "Achtzehn"));
         words.add(new Word("nineteen", "Neunzehn"));
         words.add(new Word("twenty", "Zwanzig"));
+        words.add(new Word("twentyone", "Einundzwanzig"));
+        words.add(new Word("twentytwo", "Zweiundzwanzig"));
+        words.add(new Word("twentythree", "Dreiundzwanzig"));
+        words.add(new Word("twentyfour", "Vierundwanzig"));
+        words.add(new Word("twentyfive", "Fünfundzwanzig"));
+        words.add(new Word("twentysix", "Sechsundzwanzig"));
+        words.add(new Word("twentyseven", "Siebenundzwanzig"));
+        words.add(new Word("twentyeight", "Achtundzwanzig"));
+        words.add(new Word("twentynine", "Neunundzwanzig"));
+        words.add(new Word("thirty", "Dreißig"));
 
 
         //Add List View
